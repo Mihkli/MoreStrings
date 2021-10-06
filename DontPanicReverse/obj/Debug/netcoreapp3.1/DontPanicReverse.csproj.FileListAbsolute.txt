@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TITpe21\MoreStrings\DontPanicReverse\bin\Debug\netcoreapp3.1\DontPanicReverse.exe
+C:\Users\opilane\source\repos\TITpe21\MoreStrings\DontPanicReverse\bin\Debug\netcoreapp3.1\DontPanicReverse.deps.json
+C:\Users\opilane\source\repos\TITpe21\MoreStrings\DontPanicReverse\bin\Debug\netcoreapp3.1\DontPanicReverse.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\MoreStrings\DontPanicReverse\bin\Debug\netcoreapp3.1\DontPanicReverse.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\MoreStrings\DontPanicReverse\bin\Debug\netcoreapp3.1\DontPanicReverse.dll
+C:\Users\opilane\source\repos\TITpe21\MoreStrings\DontPanicReverse\bin\Debug\netcoreapp3.1\DontPanicReverse.pdb
+C:\Users\opilane\source\repos\TITpe21\MoreStrings\DontPanicReverse\obj\Debug\netcoreapp3.1\DontPanicReverse.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\MoreStrings\DontPanicReverse\obj\Debug\netcoreapp3.1\DontPanicReverse.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\MoreStrings\DontPanicReverse\obj\Debug\netcoreapp3.1\DontPanicReverse.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\MoreStrings\DontPanicReverse\obj\Debug\netcoreapp3.1\DontPanicReverse.dll
+C:\Users\opilane\source\repos\TITpe21\MoreStrings\DontPanicReverse\obj\Debug\netcoreapp3.1\DontPanicReverse.pdb
+C:\Users\opilane\source\repos\TITpe21\MoreStrings\DontPanicReverse\obj\Debug\netcoreapp3.1\DontPanicReverse.genruntimeconfig.cache
+C:\Users\opilane\source\repos\TITpe21\MoreStrings\DontPanicReverse\obj\Debug\netcoreapp3.1\DontPanicReverse.csprojAssemblyReference.cache
